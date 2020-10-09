@@ -1,0 +1,10 @@
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+ @import "font-awesome-sprockets";
+ @import "font-awesome";
+
+ .body {
+ //Gradient
+ background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(232,232,232,0.40798326166404064) 0%); 
+ }
