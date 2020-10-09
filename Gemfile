@@ -15,8 +15,9 @@ end
 group :production do
   gem 'pg', '~> 0.18'
 end
-# Used Bootstrap library for styles
-gem 'bootstrap-sass', '~> 3.4.1'
+# Use Bootstrap library for styles
+gem 'bootstrap-sass', '3.3.1'
+gem 'jquery-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
