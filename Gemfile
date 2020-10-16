@@ -21,6 +21,8 @@ gem 'jquery-rails'
 # Use font awesome labrary for icons
 gem "font-awesome-rails"
 gem "font-awesome-sass"
+#Use devise
+gem 'devise', '3.4.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
