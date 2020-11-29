@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Assin Match Project Application
+A membership site where entrepreneurs can meet professionals
+http://compsolut.com
 
 Things you may want to cover:
 
